@@ -2,7 +2,7 @@
 
 My personal portfolio website built with Next.js, showcasing my background, achievements, and technical projects.
 
-[🔗 Live Demo](https://portfolio-5fmwnt66b-lohithcseng-5003.vercel.app)
+[🔗 Live Demo](https://portfolio-woad-alpha-69.vercel.app)
 
 ---
 
